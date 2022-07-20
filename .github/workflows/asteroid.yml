@@ -5,7 +5,7 @@ on:
     workflow_dispatch:
     
 jobs:
-  ☄️ ASTEROID ️☄️:
+  ASTEROID:
     runs-on: ubuntu-20.04
 
     steps:
