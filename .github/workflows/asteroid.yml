@@ -1,11 +1,11 @@
-name: ☄ ASTEROID ️☄️
+name: ☄️ ASTEROID ️☄️
 
 on:
     push:
     workflow_dispatch:
     
 jobs:
-  build:
+  ☄️ ASTEROID ️☄️:
     runs-on: ubuntu-20.04
 
     steps:
