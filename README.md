@@ -1,6 +1,6 @@
 <p align="center"><a href="https://t.me/Alexa_Help"><img src="https://te.legra.ph/file/6314d34fef290686ae26e.jpg"></a></p>
 
-☄️ [𝘼𝙎𝙏𝙀𝙍𝙊𝙄𝘿 𝙎𝙀𝙍𝙑𝙀𝙍](https://t.me/SAJALBOTSTSTUS) : 📀 Host TG Bot 📡
+☄️ [𝘼𝙎𝙏𝙀𝙍𝙊𝙄𝘿 𝙎𝙀𝙍𝙑𝙀𝙍](https://t.me/SAJALBOTSTATUS) : 📀 Host TG Bot 📡
 ASTEROID SERVER For TG Bots » [𝐎𝐰𝐧𝐞𝐫 ❣️](https://t.me/SAJALBOTSTATUS) 💫
 
 * 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐒𝐞𝐫𝐯𝐞𝐫 𝐂𝐫𝐞𝐝𝐢𝐭📡
